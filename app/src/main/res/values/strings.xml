@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test</string>
+
+        <string-array name="shape_array">
+            <item>Circle</item>
+            <item>Rectangle</item>
+        </string-array>
+
+        <string-array name="color_array">
+            <item>Red</item>
+            <item>Blue</item>
+        </string-array>
+
+</resources>
